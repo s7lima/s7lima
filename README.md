@@ -1,31 +1,30 @@
-<h1 align="left">Olá 👋 tudo bom?</h1>
+# Olá 👋, tudo bom?
 
-###
+Meu nome é **Bruno Lima**!
 
-<p align="left">Me chamo Bruno Lima!</p>
+## Sobre Mim
 
-###
+✨ Gosto de criar projetos que desafiem minha criatividade.  
+📚 Tenho um grande interesse por Python e sempre busco aprender mais sobre desenvolvimento web e outras tecnologias.
 
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">✨Gosto de criar projetos.<br>📚 Eu gosto bastante de python...</p>
-
-###
-
-<h2 align="left"></h2>
-
-###
+## Tecnologias que Uso
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
 </div>
 
-###
+## Contato
+
+Sinta-se à vontade para entrar em contato comigo:
+
+- E-mail: bruno1638lima@hotmail.com
+
+## Agradecimentos
+
+Agradeço por visitar meu perfil! Estou sempre aberto a colaborações e novos desafios.
