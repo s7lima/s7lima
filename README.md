@@ -8,7 +8,7 @@ Git hub de estudo!
 ✨ Gosto de criar projetos que desafiem minha criatividade.  
 📚 Tenho um grande interesse por Python e sempre busco aprender mais sobre desenvolvimento web e outras tecnologias.
 
-Link meu git pessoal: [Clique Aqui!](https://github.com/s7tec)
+Link do meu git pessoal: [Clique Aqui!](https://github.com/s7tec)
 
 ## Tecnologias que Uso
 
